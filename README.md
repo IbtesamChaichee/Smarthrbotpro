@@ -13,7 +13,8 @@ A Multi-Agent System for streamlining hiring using an interactive frontend (HTML
 - PDF.js, Chart.js
 - Deployed on Netlify
 
-## Contributers
+## Team SmartHRBot Pro
 - Muhammad Husnain Ali
+- Ibtesam Chaichee
 - Afaq Ali Nagra
 - Momina Zafar
