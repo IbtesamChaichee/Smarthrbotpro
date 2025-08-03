@@ -12,3 +12,8 @@ A Multi-Agent System for streamlining hiring using an interactive frontend (HTML
 - HTML, CSS, JavaScript
 - PDF.js, Chart.js
 - Deployed on Netlify
+
+## Contributers
+- Muhammad Husnain Ali
+- Afaq Ali Nagra
+- Momina Zafar
